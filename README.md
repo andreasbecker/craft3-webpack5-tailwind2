@@ -3,6 +3,8 @@
 
 A real-world boilerplate for Craft CMS 3 projects that leverages Wepback 5, Tailwind 2, PostCSS 8, and Twigpack. Also included is a hot-reload dev environment. I created this as a starting point for Craft CMS 3 / Webpack 5 projects.
 
+This project was originally created by https://github.com/mizziness/craft3-webpack5-tailwind2-boilerplate
+
 ### What's Included
 
 * [Craft CMS 3](https://github.com/craftcms/cms) - My CMS of choice, and the app which will consume assets from Webpack.
