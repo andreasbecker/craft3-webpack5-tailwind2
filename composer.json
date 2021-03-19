@@ -1,7 +1,15 @@
 {
+    "name": "kopfmunter/craft3-webpack5-tailwind2",
+    "description": "Craft CMS 3 Boilerplate with TailwindCSS 2 and Webpack 5",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "project"
+    ],
   "require": {
     "chasegiunta/scss": "^1.0",
-    "craftcms/cms": "^3.5.10",
+    "craftcms/cms": "^3.6.10",
     "nystudio107/craft-twigpack": "^1.2",
     "vlucas/phpdotenv": "^3.4.0"
   },
@@ -17,7 +25,7 @@
     "sort-packages": true,
     "optimize-autoloader": true,
     "platform": {
-      "php": "7.0"
+      "php": "7.4"
     }
   },
   "scripts": {
