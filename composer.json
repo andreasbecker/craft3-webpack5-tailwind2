@@ -10,7 +10,9 @@
   "require": {
     "chasegiunta/scss": "^1.0",
     "craftcms/cms": "^3.6.10",
-    "nystudio107/craft-twigpack": "^1.2",
+    "nystudio107/craft-twigpack": "~1.2",
+    "nystudio107/craft-seomatic": "~3.3",
+    "pennebaker/craft-architect": "~2.4",
     "vlucas/phpdotenv": "^3.4.0"
   },
   "require-dev": {
